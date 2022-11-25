@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Number Base Converter" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="converter.MainKt" />
+    <module name="NumberBaseConverter" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
